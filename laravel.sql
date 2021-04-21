@@ -447,3 +447,13 @@ ENGINE = InnoDB;
 SET SQL_MODE=@OLD_SQL_MODE;
 SET FOREIGN_KEY_CHECKS=@OLD_FOREIGN_KEY_CHECKS;
 SET UNIQUE_CHECKS=@OLD_UNIQUE_CHECKS;
+
+  insert into `laravel`.`datos_usuarios` (nombre_usuario, contraseña_usuario, codigo_usuario, correo_usuario, nombre_curso_usuario, id_usuario_lista_negra) values('Ruddy', 'Bb2XOXPSNR', 1, 'rtixall0@wsj.com', 'frances', 1),
+  ('Daphna', '8FfjJjPxB', 2, 'dsambeck1@yahoo.co.jp', 'ingles', 2), ('Kenon', 'XsKv2Kvj', 3, 'kguirardin2@senate.gov', 'frances', 3), ('Shela', 'LCh9wD', 4, 'spartener3@instagram.com', 'ingles', 4),
+  ('Bord', 'Aymiysa9Zit1', 5, 'bigonet4@i2i.jp', 'español', 5), ('Clare', 'n0Udll9kg7i', 6, 'cblomefield5@seattletimes.com', 'catalan', 6), ('Avigdor', 'hQefYoA1bNz', 7, 'aipgrave6@spotify.com', 'frances', 7),
+  ('Silvan', 'wfFpF4', 8, 'spenman7@bizjournals.com', 'español', 8), ('Troy', 'zaBCLzB0F', 9, 'tpecht8@irs.gov', 'español', 9), ('Myrwyn', 'k71yV9HqA', 10, 'mtrewman9@issuu.com', 'español', 10),
+  ('Hendrick', '4wFtWofk8', 11, 'hhecksa@springer.com', 'español', 11), ('Randee', '6obRmfUG9Lzc', 12, 'rdelhantyb@technorati.com', 'catalan', 12), ('Jarrad', 'sm1dQR', 13, 'jmumbesonc@about.me', 'catalan', 13), 
+  ('Lib', 'RRhstnZ1AMX0', 14, 'layrsd@spotify.com', 'ingles', 14), ('Roxi', 'KseKE5Ni', 15, 'rdenere@nasa.gov', 'frances', 15), ('Dalton', 'Fc2aj9Q8', 16, 'dkrzyzanowskif@aol.com', 'español', 16),
+  ('Bessy', 'I9KsxqpMYQ', 17, 'bmarrillg@flavors.me', 'ingles', 17), ('Janetta', 'lMrtnLtIscN', 18, 'jbaintonh@dmoz.org', 'ingles', 18), ('Cammy', 'gGZcvWrp9OoK', 19, 'chanshawi@imdb.com', 'ingles', 19),
+  ('Toddy', 'NGyX5e', 20, 'twinterscalej@home.pl', 'frances', 20), ('Claudette', 'ZKhaCQ3qbL0', 21, 'ctudork@jimdo.com', 'frances', 21), ('Sauveur', 'jxs0L1RF8m', 22, 'sturmell@istockphoto.com', 'catalan', 22),
+  ('Kelvin', 'tUxgu7UmA', 23, 'kmouldm@hatena.ne.jp', 'frances', 23), ('Antonie', '2YkPxZ', 24, 'aviantn@cornell.edu', 'frances', 24), ('Valentia', '8tMtsno', 25, 'vabbso@pagesperso-orange.fr', 'español', 25);
